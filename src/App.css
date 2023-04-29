@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.pos{
+  position: absolute;
+  top: -150px;
+  right: 750px;
+}
+
+.pst{
+  position: absolute;
+  top: -70px;
+  right: 850px;
+}
+
+.btn{
+  position: absolute;
+  top: -20px;
+  right: 900px;
+}
